@@ -51,4 +51,5 @@ The database models the flow: `Movie` <-> `Screening` -> `Ticket`. It also handl
 ## 👨‍💻 Author
 **Mateusz Siara**
 * Computer Science Student at Military University of Technology (WAT)
-* [LinkedIn](https://www.linkedin.com/in/mateusz-siara/) (Optional: Add your link here if you have one)
+
+  
